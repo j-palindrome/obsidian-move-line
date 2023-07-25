@@ -1,0 +1,11 @@
+{
+	"id": "move-line",
+	"name": "Move Line",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Move lines easily between files.",
+	"author": "Joshua Reinier",
+	"authorUrl": "https://joshuareinier.com",
+	"fundingUrl": "https://joshuareinier.com",
+	"isDesktopOnly": false
+}
